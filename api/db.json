@@ -11,10 +11,9 @@
       "id": 2
     },
     {
-      "title": "I Created This Stream",
-      "description": "This was made by me!",
-      "userId": "102937554495589843256",
-      "id": 3
+      "title": "Me Streaming Component Reuse",
+      "description": "This stream is about refactoring.",
+      "id": 4
     }
   ]
 }
