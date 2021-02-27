@@ -1,0 +1,1 @@
+This is an app for streaming. However a server has not been set up, so the live app is limited to just authentication.
